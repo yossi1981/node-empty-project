@@ -1,0 +1,36 @@
+# Node.js
+/node_modules
+/.pnp
+.pnp.js
+
+# TypeScript
+*.tsbuildinfo
+
+# Vite
+/dist
+/.vite
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+/.eslintcache
+/.prettier
+
+# IDE specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Coverage folder (used by code coverage tools)
+/coverage
